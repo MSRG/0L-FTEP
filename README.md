@@ -1,3 +1,7 @@
+# Announcement
+
+We will be removeing this entry soon. While this program has been setup with all good intentions, we were never put in charge of the fund, never held the private keys to it, and never effected any of the postulated actions. As the 0L network restarted, the fund was no longer advertised as one that we'd manage on behalf of the 0L community. We were left in the dark as to why this decison was made and do not know exactly who made that decision; it wasn't a community decison or what they call social concensus. 
+
 # Full-time Engineers Program
 
 The 0L FTEP aims to collect ongoing donations from validators, and redistribute those donations to engineers working full-time on the 0L platform.
